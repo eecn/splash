@@ -113,6 +113,15 @@ To run (and if needed compile) the tests:
 make run-tests
 ```
 
+## CMakeProject   
+
+Add cmake project which can execute on Linux and Windows.   
+VS2019 and above versions.   
+* open local flolder   
+* select "splash\CMakeProject\splash\splash" folder path   
+* select CMakeLists.txt file and VS can detect the CMake Project automatically   
+You can easily switch configurations in Visual Studio.Enjoy!   
+
 ## Acknowledgements
 
 Thanks to:
